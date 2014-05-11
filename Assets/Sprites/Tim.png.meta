@@ -1,0 +1,1363 @@
+fileFormatVersion: 2
+guid: 821027eb831b8b64495c72d3cdccdc72
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Tim_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 893
+        width: 69
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 893
+        width: 68
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 893
+        width: 68
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 893
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 893
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 893
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_6
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 893
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_7
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 893
+        width: 72
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 893
+        width: 72
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 893
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_10
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 893
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_11
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 893
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_12
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 893
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_13
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 893
+        width: 68
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_14
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 893
+        width: 69
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_15
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 893
+        width: 68
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_16
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 893
+        width: 73
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_17
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 893
+        width: 68
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_18
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 893
+        width: 68
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_19
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 893
+        width: 68
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_20
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 893
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_21
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 893
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_22
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 893
+        width: 66
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_23
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 893
+        width: 76
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 760
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 763
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_26
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 759
+        width: 99
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_27
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 761
+        width: 99
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 759
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_29
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 759
+        width: 89
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_30
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 759
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_31
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 759
+        width: 84
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_32
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 759
+        width: 83
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_33
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 773
+        width: 89
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_34
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 776
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_35
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 776
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_36
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 781
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_37
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 776
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_38
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 775
+        width: 99
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_39
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 783
+        width: 103
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_40
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 783
+        width: 106
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_41
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 783
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_42
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 543
+        width: 93
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_43
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 648
+        width: 82
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_44
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 649
+        width: 83
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_45
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 648
+        width: 86
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_46
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 653
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_47
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 653
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_48
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 653
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_49
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 653
+        width: 92
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_50
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 651
+        width: 86
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_51
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 653
+        width: 89
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_52
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 648
+        width: 82
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_53
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 649
+        width: 80
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_54
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 645
+        width: 78
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_55
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 647
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_56
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 648
+        width: 83
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_57
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 648
+        width: 82
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_58
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 648
+        width: 84
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_59
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 651
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_60
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 545
+        width: 88
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_61
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 543
+        width: 86
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_62
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 542
+        width: 80
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_63
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 543
+        width: 83
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_64
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 543
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_65
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 543
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_66
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 543
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_67
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 544
+        width: 95
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_68
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 520
+        width: 91
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_69
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 521
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_70
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 521
+        width: 107
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_71
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 523
+        width: 96
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_72
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 523
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_73
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 594
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_74
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 588
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_75
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 554
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_76
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 541
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_77
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 405
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_78
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 401
+        width: 83
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_79
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 407
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_80
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 409
+        width: 88
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_81
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 401
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_82
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 400
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_83
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 407
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_84
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 409
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_85
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 400
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_86
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 399
+        width: 108
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_87
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 401
+        width: 109
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_88
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 400
+        width: 96
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_89
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 405
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_90
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 405
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_91
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 403
+        width: 96
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_92
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 403
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_93
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 272
+        width: 88
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_94
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 273
+        width: 86
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_95
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 273
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_96
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 273
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_97
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 272
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_98
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 273
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_99
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 272
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_100
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 273
+        width: 91
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_101
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 273
+        width: 89
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_102
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 272
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_103
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 273
+        width: 92
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_104
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 273
+        width: 97
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_105
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 273
+        width: 95
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_106
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 273
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_107
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 273
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_108
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 152
+        width: 92
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_109
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 155
+        width: 93
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_110
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 157
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_111
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 152
+        width: 92
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_112
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 151
+        width: 100
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_113
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 155
+        width: 98
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_114
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 152
+        width: 99
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_115
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 155
+        width: 98
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_116
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 155
+        width: 89
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_117
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 152
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_118
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 151
+        width: 79
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_119
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 151
+        width: 93
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_120
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 151
+        width: 94
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_121
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 151
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_122
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 152
+        width: 96
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_123
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 153
+        width: 92
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_124
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 153
+        width: 90
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_125
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 151
+        width: 91
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_126
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 23
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_127
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 23
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_128
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 23
+        width: 64
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_129
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 23
+        width: 72
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_130
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 25
+        width: 68
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_131
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 25
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_132
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 25
+        width: 72
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_133
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 24
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_134
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 25
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_135
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 24
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_136
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 24
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_137
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 25
+        width: 69
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_138
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 25
+        width: 68
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_139
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 32
+        width: 72
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_140
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 32
+        width: 73
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_141
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 32
+        width: 72
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_142
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 33
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_143
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 31
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_144
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 33
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Tim_145
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 33
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 95c242298f2753f499f9a21db6272460
+AudioImporter:
+  serializedVersion: 4
+  format: 0
+  quality: .5
+  stream: 1
+  3D: 0
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

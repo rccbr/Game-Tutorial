@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 6e896af27d386cd478093946f9754cca
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: monstar_orange_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 475
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 475
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 475
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 475
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_5
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 475
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_6
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 475
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_7
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 475
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 186
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 338
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_16
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 338
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 338
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_18
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 338
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_19
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 338
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_20
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 338
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_21
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 338
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_27
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 186
+        width: 113
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 186
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_29
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 186
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_30
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 186
+        width: 112
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_31
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 186
+        width: 113
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_32
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 186
+        width: 113
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_33
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 186
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_35
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 186
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_36
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_37
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 19
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_38
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 19
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_39
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 19
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_41
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 19
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_42
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 19
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_43
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 19
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_44
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 19
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_37
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 19
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_38
+      rect:
+        serializedVersion: 2
+        x: 571.51001
+        y: 19
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_34
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 338
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: monstar_orange_34
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 475
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
